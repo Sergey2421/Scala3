@@ -7,7 +7,7 @@ object Laba6 {
       tempstrlist.foreach(System.out.println)                                                                  // part 1
       System.out.println(strList.last)                                                                         // part 2
       val str = "Trust me, I'm a programmer"                                                                   // part 3
-      val tempstr = str.split(",")                                                                      // part 3
+      val tempstr = str.split(",")                                                                             // part 3
       tempstr.foreach(System.out.println)                                                                     // part 3
     }
 
